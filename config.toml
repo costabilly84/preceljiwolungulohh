@@ -1,0 +1,4 @@
+baseURL = "https://dragobballanimesnopty.vercel.app"
+languageCode = "en-us"
+title = "Dragon Ball super"
+theme = "hugo-theme-minos"
